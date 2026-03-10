@@ -41,3 +41,5 @@ gem "base64"
 # updates sp2026
 gem 'bigdecimal'
 
+
+gem "faraday-retry", "~> 2.4"
